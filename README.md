@@ -77,10 +77,13 @@ Models were compared using classification metrics to determine the best-performi
 
 ## Results
 
-* Successfully developed a machine learning pipeline for customer subscription prediction.
-* Compared multiple classification models.
-* Achieved a Kaggle Public Leaderboard Score of approximately **0.75 AUC**.
-* Identified key customer attributes that influence subscription decisions.
+* Successfully developed machine learning models to predict customer subscription to bank term deposits.
+* Performed end-to-end data preprocessing and exploratory data analysis on telemarketing campaign data.
+* Compared the performance of Logistic Regression and Random Forest classifiers.
+* Achieved a Kaggle Public Leaderboard Score of **0.75 AUC**, close to the competition's top public score of **0.78 AUC**.
+* Identified key customer and campaign-related factors that influence subscription decisions.
+* Demonstrated the application of machine learning techniques to solve a real-world business problem in the banking sector.
+
 
 ---
 
